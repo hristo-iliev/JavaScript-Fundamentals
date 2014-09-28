@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\04-MaximalIncreasingSequence\bin\04-MaximalIncreasingSequence.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\04-MaximalIncreasingSequence\bin\04-MaximalIncreasingSequence.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\04-MaximalIncreasingSequence\bin\04-MaximalIncreasingSequence.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\04-MaximalIncreasingSequence\obj\Debug\04-MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\04-MaximalIncreasingSequence\obj\Debug\04-MaximalIncreasingSequence.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\04-MaximalIncreasingSequence\obj\Debug\04-MaximalIncreasingSequence.pdb

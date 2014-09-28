@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\05-SelectionSort\bin\05-SelectionSort.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\05-SelectionSort\bin\05-SelectionSort.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\05-SelectionSort\bin\05-SelectionSort.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\05-SelectionSort\obj\Debug\05-SelectionSort.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\05-SelectionSort\obj\Debug\05-SelectionSort.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\05-SelectionSort\obj\Debug\05-SelectionSort.pdb

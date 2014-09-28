@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\02-ReverseNumber\bin\02-ReverseNumber.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\02-ReverseNumber\bin\02-ReverseNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\02-ReverseNumber\bin\02-ReverseNumber.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\02-ReverseNumber\obj\Debug\02-ReverseNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\02-ReverseNumber\obj\Debug\02-ReverseNumber.pdb

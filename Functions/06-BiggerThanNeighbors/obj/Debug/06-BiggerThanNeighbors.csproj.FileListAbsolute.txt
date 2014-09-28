@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\06-BiggerThanNeighbors\bin\06-BiggerThanNeighbors.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\06-BiggerThanNeighbors\bin\06-BiggerThanNeighbors.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\06-BiggerThanNeighbors\bin\06-BiggerThanNeighbors.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\06-BiggerThanNeighbors\obj\Debug\06-BiggerThanNeighbors.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\06-BiggerThanNeighbors\obj\Debug\06-BiggerThanNeighbors.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\06-BiggerThanNeighbors\obj\Debug\06-BiggerThanNeighbors.pdb

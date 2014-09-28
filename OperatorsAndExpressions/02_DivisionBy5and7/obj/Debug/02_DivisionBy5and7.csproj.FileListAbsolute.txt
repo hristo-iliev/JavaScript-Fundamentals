@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\02_DivisionBy5and7\bin\02_DivisionBy5and7.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\02_DivisionBy5and7\bin\02_DivisionBy5and7.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\02_DivisionBy5and7\bin\02_DivisionBy5and7.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\02_DivisionBy5and7\obj\Debug\02_DivisionBy5and7.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\02_DivisionBy5and7\obj\Debug\02_DivisionBy5and7.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\02_DivisionBy5and7\obj\Debug\02_DivisionBy5and7.pdb

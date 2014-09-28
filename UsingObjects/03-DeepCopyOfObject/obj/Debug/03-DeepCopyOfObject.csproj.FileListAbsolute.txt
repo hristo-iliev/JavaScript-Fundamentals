@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\03-DeepCopyOfObject\bin\03-DeepCopyOfObject.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\03-DeepCopyOfObject\bin\03-DeepCopyOfObject.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\03-DeepCopyOfObject\bin\03-DeepCopyOfObject.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\03-DeepCopyOfObject\obj\Debug\03-DeepCopyOfObject.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\03-DeepCopyOfObject\obj\Debug\03-DeepCopyOfObject.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\03-DeepCopyOfObject\obj\Debug\03-DeepCopyOfObject.csprojResolveAssemblyReference.cache

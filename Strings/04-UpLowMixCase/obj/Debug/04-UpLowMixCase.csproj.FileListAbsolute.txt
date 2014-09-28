@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\04-UpLowMixCase\bin\04-UpLowMixCase.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\04-UpLowMixCase\bin\04-UpLowMixCase.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\04-UpLowMixCase\bin\04-UpLowMixCase.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\04-UpLowMixCase\obj\Debug\04-UpLowMixCase.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\04-UpLowMixCase\obj\Debug\04-UpLowMixCase.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\04-UpLowMixCase\obj\Debug\04-UpLowMixCase.pdb

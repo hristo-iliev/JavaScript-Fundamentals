@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\03-MaximalSequenceInArray\bin\03-MaximalSequenceInArray.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\03-MaximalSequenceInArray\bin\03-MaximalSequenceInArray.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\03-MaximalSequenceInArray\bin\03-MaximalSequenceInArray.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\03-MaximalSequenceInArray\obj\Debug\03-MaximalSequenceInArray.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\03-MaximalSequenceInArray\obj\Debug\03-MaximalSequenceInArray.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\03-MaximalSequenceInArray\obj\Debug\03-MaximalSequenceInArray.pdb

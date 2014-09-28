@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\07-CoorSys\bin\07-CoorSys.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\07-CoorSys\bin\07-CoorSys.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\07-CoorSys\bin\07-CoorSys.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\07-CoorSys\obj\Debug\07-CoorSys.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\07-CoorSys\obj\Debug\07-CoorSys.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\07-CoorSys\obj\Debug\07-CoorSys.pdb

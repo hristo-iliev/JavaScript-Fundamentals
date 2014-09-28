@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\02-AttachRemoveFunction\bin\02-AttachRemoveFunction.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\02-AttachRemoveFunction\bin\02-AttachRemoveFunction.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\02-AttachRemoveFunction\bin\02-AttachRemoveFunction.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\02-AttachRemoveFunction\obj\Debug\02-AttachRemoveFunction.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\02-AttachRemoveFunction\obj\Debug\02-AttachRemoveFunction.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\02-AttachRemoveFunction\obj\Debug\02-AttachRemoveFunction.pdb

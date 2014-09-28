@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\08-UpDownLab\bin\08-UpDownLab.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\08-UpDownLab\bin\08-UpDownLab.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\08-UpDownLab\bin\08-UpDownLab.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\08-UpDownLab\obj\Debug\08-UpDownLab.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\08-UpDownLab\obj\Debug\08-UpDownLab.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\08-UpDownLab\obj\Debug\08-UpDownLab.pdb

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <p>
+        <span style ="text-decoration:underline">TASK 1:</span> Write functions for working with shapes in  standard Planar coordinate system
+        <ul>
+            <li>Points are represented by coordinates P(X, Y)</li>
+            <li>
+                Lines are represented by two points, marking their beginning and ending
+                <ul>
+                    <li>L(P1(X1,Y1), P2(X2,Y2))</li>
+                </ul>
+            </li>
+            <li>Calculate the distance between two points</li>
+            <li>Check if three segment lines can form a triangle</li>
+        </ul>
+    </p>
+    <h2 style="margin:30px 0 0 0;"><b style="text-decoration:underline">Enter 3 lines</b></h2><br />
+    <p style="margin-top:-10px;">
+        First Line:<br />
+        P1: <input type="text" id="first-p1-x" placeholder="x1" /> <input type="text" id="first-p1-y" placeholder="y1" /> <br />
+        P2: <input type="text" id="first-p2-x" placeholder="x2" /> <input type="text" id="first-p2-y" placeholder="y2" /> <br />
+    </p>
+    <p>
+        Second Line:<br />
+        P1: <input type="text" id="second-p1-x" placeholder="x1" /> <input type="text" id="second-p1-y" placeholder="y1" /> <br />
+        P2: <input type="text" id="second-p2-x" placeholder="x2" /> <input type="text" id="second-p2-y" placeholder="y2" /> <br />
+    </p>
+    <p>
+        Third Line:<br />
+        P1: <input type="text" id="third-p1-x" placeholder="x1" /> <input type="text" id="third-p1-y" placeholder="y1" /> <br />
+        P2: <input type="text" id="third-p2-x" placeholder="x2" /> <input type="text" id="third-p2-y" placeholder="y2" /> <br />
+    </p>
+      
+    <input type="submit" onclick="main()" value="Go!" />
+    <p id="result"></p>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

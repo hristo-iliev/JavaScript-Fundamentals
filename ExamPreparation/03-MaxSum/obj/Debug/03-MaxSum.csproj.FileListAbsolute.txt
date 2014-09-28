@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\03-MaxSum\bin\03-MaxSum.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\03-MaxSum\bin\03-MaxSum.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\03-MaxSum\bin\03-MaxSum.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\03-MaxSum\obj\Debug\03-MaxSum.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\03-MaxSum\obj\Debug\03-MaxSum.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\03-MaxSum\obj\Debug\03-MaxSum.pdb

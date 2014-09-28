@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\02-NotDivisibleBy3And7\bin\02-NotDivisibleBy3And7.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\02-NotDivisibleBy3And7\bin\02-NotDivisibleBy3And7.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\02-NotDivisibleBy3And7\bin\02-NotDivisibleBy3And7.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\02-NotDivisibleBy3And7\obj\Debug\02-NotDivisibleBy3And7.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\02-NotDivisibleBy3And7\obj\Debug\02-NotDivisibleBy3And7.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\02-NotDivisibleBy3And7\obj\Debug\02-NotDivisibleBy3And7.csprojResolveAssemblyReference.cache

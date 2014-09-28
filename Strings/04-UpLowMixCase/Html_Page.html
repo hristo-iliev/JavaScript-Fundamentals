@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <p>
+        <span style="text-decoration:underline">TASK 4:</span>You are given a text. Write a function that changes the text in all regions:
+        <ul>
+            <li>&lt;upcase&gt;text&lt;/upcase&gt; to uppercase.</li>
+            <li>&lt;lowcase&gt;text&lt;/lowcase&gt; to lowercase</li>
+            <li>&lt;lowcase&gt;text&lt;/lowcase&gt; to lowercase</li>
+        </ul>
+    <p id="example">
+        We are &lt;mixcase&gt;living&lt;/mixcase&gt; in a &lt;upcase&gt;yellow submarine&lt;/upcase&gt;.
+        We &lt;mixcase&gt;don't&lt;/mixcase&gt; have &lt;lowcase&gt;anything&lt;/lowcase&gt; else.
+    </p>
+    The expected result:<br />
+    <b>We are LiVinG in a YELLOW SUBMARINE. We dOn'T have anything else.</b><br />
+    Regions can be nested
+    <br />
+    <br />
+
+    <span style="font-weight:bold">Enter the text</span> (with "upcase", "lowcase" and "mixcase" comands):<br />
+    <textarea id="text" style="width:30em; height:10em"></textarea><br />
+    <span style="text-decoration:underline">If no text is inserted, the program will run with the EXAMPLE input!</span><br />
+    <input type="submit" onclick="main()" value="Go!" />
+    <p id="result" style="width:50em;"></p>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

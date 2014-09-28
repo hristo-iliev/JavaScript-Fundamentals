@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <p>
+        <span style="text-decoration:underline">TASK 7:</span> Write a script that parses an URL address given in the format:<br />
+        <b>[protocol]://[server]/[resource]</b><br />
+        and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.<br />
+        For example from the URL http://www.devbg.org/forum/index.php the following information should be extracted:<br />
+        <b>{protocol: "http",<br />
+ server: "www.devbg.org",<br />
+ resource: "/forum/index.php"}</b>
+    </p>
+    <span style="font-weight:bold">Enter URL address:</span>
+    <input type="text" id="url" /><br />
+    <input type="submit" onclick="main()" value="Parse!" />
+    <p id="result"></p>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

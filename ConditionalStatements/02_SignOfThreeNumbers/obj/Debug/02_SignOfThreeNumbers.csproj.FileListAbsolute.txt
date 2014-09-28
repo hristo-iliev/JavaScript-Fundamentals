@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\02_SignOfThreeNumbers\bin\02_SignOfThreeNumbers.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\02_SignOfThreeNumbers\bin\02_SignOfThreeNumbers.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\02_SignOfThreeNumbers\bin\02_SignOfThreeNumbers.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\02_SignOfThreeNumbers\obj\Debug\02_SignOfThreeNumbers.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\02_SignOfThreeNumbers\obj\Debug\02_SignOfThreeNumbers.pdb

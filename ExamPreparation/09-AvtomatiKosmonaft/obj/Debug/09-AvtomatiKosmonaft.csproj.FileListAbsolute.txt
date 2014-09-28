@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\09-AvtomatiKosmonaft\bin\09-AvtomatiKosmonaft.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\09-AvtomatiKosmonaft\bin\09-AvtomatiKosmonaft.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\09-AvtomatiKosmonaft\bin\09-AvtomatiKosmonaft.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\09-AvtomatiKosmonaft\obj\Debug\09-AvtomatiKosmonaft.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\09-AvtomatiKosmonaft\obj\Debug\09-AvtomatiKosmonaft.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\09-AvtomatiKosmonaft\obj\Debug\09-AvtomatiKosmonaft.pdb

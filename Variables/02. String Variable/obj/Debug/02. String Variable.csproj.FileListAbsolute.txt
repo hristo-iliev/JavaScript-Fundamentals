@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\02. String Variable\bin\_02.String_Variable.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\02. String Variable\bin\_02.String_Variable.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\02. String Variable\bin\_02.String_Variable.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\02. String Variable\obj\Debug\_02.String_Variable.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\02. String Variable\obj\Debug\_02.String_Variable.pdb

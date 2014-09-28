@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\05-ClojureParser\bin\05-ClojureParser.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\05-ClojureParser\bin\05-ClojureParser.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\05-ClojureParser\bin\05-ClojureParser.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\05-ClojureParser\obj\Debug\05-ClojureParser.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\05-ClojureParser\obj\Debug\05-ClojureParser.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\05-ClojureParser\obj\Debug\05-ClojureParser.pdb

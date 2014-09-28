@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <p>TASK 2: Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.</p>
+
+        Enter a number: <input type="text" id="number" />
+        <input type="submit" onclick="DevidionBy5and7()" />
+
+        <p id="result"></p>
+    </div>
+    <script>
+        function DevidionBy5and7() {
+            var num = parseInt(document.getElementById("number").value);
+
+            if (num % 35 == 0) {
+                document.getElementById('result').innerHTML = "The number " + num + " CAN be devided by 5 and 7";
+            }
+            else {
+                document.getElementById('result').innerHTML = "The number " + num + " CAN'T be devided by 5 and 7";
+            }
+        }
+    </script>
+</body>
+</html>

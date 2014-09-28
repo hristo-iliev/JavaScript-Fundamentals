@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\01_Sequences\bin\01_Sequences.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\01_Sequences\bin\01_Sequences.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\01_Sequences\bin\01_Sequences.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\01_Sequences\obj\Debug\01_Sequences.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\01_Sequences\obj\Debug\01_Sequences.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\01_Sequences\obj\Debug\01_Sequences.pdb

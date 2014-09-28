@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\07_PrimeNumber\bin\07_PrimeNumber.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\07_PrimeNumber\bin\07_PrimeNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\07_PrimeNumber\bin\07_PrimeNumber.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\07_PrimeNumber\obj\Debug\07_PrimeNumber.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\07_PrimeNumber\obj\Debug\07_PrimeNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\07_PrimeNumber\obj\Debug\07_PrimeNumber.pdb

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML Document</title>
+</head>
+<body>
+    <p>
+        <span style="text-decoration:underline">TASK 6:</span>
+        Write a function that extracts the content of a html page given as text.<br />
+        The function should return anything that is in a tag, without the tags:<br />
+        <br />
+        &lt;html&gt;&lt;head&gt;&lt;title&gt;Sample&nbsp;site&lt;/title&gt;&lt;/head&gt;<br />
+        &lt;body&gt;&lt;div&gt;text&lt;div&gt;more&nbsp;text&lt;/div&gt;and&nbsp;more...<br />
+        &lt;/div&gt;in&nbsp;body&lt;/body&gt;&lt;/html&gt;
+        <div>
+            result:<br />
+            Sample sitetextmore textand more...in body
+        </div>
+    </p>
+
+    <input type="submit" onclick="main()" value="Go!" />
+    <p id="result" style="width:50%; border:1px solid black"></p>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\01-ReverseString\bin\01-ReverseString.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\01-ReverseString\bin\01-ReverseString.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\01-ReverseString\bin\01-ReverseString.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\01-ReverseString\obj\Debug\01-ReverseString.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\01-ReverseString\obj\Debug\01-ReverseString.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\01-ReverseString\obj\Debug\01-ReverseString.pdb

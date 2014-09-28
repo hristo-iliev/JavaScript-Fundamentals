@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        //TASK_3: Try typeof on all variables you created.
+
+        var int = 5;
+        var float = 5.5;
+        var arr = ["Ceco", "Misho"];
+        var bool = true;
+        var string = "Bravo be!";
+        var obj = new Date();
+
+        function GetType(variable) {
+            var result = variable + " => " + typeof (variable);
+            var div = document.createElement("div");
+            div.innerHTML = result;
+            document.body.appendChild(div);
+        }
+
+        GetType(int);
+        GetType(float);
+        GetType(arr);
+        GetType(bool);
+        GetType(string);
+        GetType(obj);
+
+    </script>
+</body>
+</html>

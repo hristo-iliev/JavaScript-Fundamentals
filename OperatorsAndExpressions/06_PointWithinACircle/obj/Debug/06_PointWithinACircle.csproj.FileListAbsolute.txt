@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\06_PointWithinACircle\bin\06_PointWithinACircle.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\06_PointWithinACircle\bin\06_PointWithinACircle.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\06_PointWithinACircle\bin\06_PointWithinACircle.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\06_PointWithinACircle\obj\Debug\06_PointWithinACircle.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\06_PointWithinACircle\obj\Debug\06_PointWithinACircle.pdb

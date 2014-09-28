@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\03-SubstringInText\bin\03-SubstringInText.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\03-SubstringInText\bin\03-SubstringInText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\03-SubstringInText\bin\03-SubstringInText.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\03-SubstringInText\obj\Debug\03-SubstringInText.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\03-SubstringInText\obj\Debug\03-SubstringInText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\03-SubstringInText\obj\Debug\03-SubstringInText.pdb

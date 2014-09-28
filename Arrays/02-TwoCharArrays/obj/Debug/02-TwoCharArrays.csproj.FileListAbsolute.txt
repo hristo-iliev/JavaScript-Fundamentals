@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\02-TwoCharArrays\bin\02-TwoCharArrays.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\02-TwoCharArrays\bin\02-TwoCharArrays.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\02-TwoCharArrays\bin\02-TwoCharArrays.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\02-TwoCharArrays\obj\Debug\02-TwoCharArrays.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\02-TwoCharArrays\obj\Debug\02-TwoCharArrays.pdb

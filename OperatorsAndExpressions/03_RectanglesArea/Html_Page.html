@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        <p>TASK 3: Write an expression that calculates rectangle’s area by given width and height.</p>
+
+        width: <input type="text" id="width" />
+        <br />
+        height: <input type="text" id="height" />
+        <input type="submit" onclick="Area()" />
+
+        <p id="result"></p>
+    </div>
+    <script>
+        function Area() {
+            var width = parseFloat(document.getElementById("width").value);
+            var height = parseFloat(document.getElementById("height").value);
+            var result = width * height;
+
+            if (!isNaN(result)) {
+                document.getElementById('result').innerHTML = "The area is " + (width * height);
+            }
+            else {
+                document.getElementById('result').innerHTML = "INVALID INPUT IS ENTERED!";
+            }
+           
+            
+        }
+    </script>
+</body>
+</html>

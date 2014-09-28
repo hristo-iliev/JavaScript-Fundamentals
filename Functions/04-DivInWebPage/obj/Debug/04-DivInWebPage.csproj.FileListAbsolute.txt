@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\04-DivInWebPage\bin\04-DivInWebPage.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\04-DivInWebPage\bin\04-DivInWebPage.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\04-DivInWebPage\bin\04-DivInWebPage.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\04-DivInWebPage\obj\Debug\04-DivInWebPage.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\04-DivInWebPage\obj\Debug\04-DivInWebPage.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\04-DivInWebPage\obj\Debug\04-DivInWebPage.pdb

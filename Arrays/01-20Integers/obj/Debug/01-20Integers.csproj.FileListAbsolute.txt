@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\01-20Integers\bin\01-20Integers.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\01-20Integers\bin\01-20Integers.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\01-20Integers\bin\01-20Integers.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\01-20Integers\obj\Debug\01-20Integers.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\01-20Integers\obj\Debug\01-20Integers.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\01-20Integers\obj\Debug\01-20Integers.pdb

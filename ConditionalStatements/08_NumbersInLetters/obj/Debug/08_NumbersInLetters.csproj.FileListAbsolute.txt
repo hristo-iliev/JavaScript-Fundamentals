@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\08_NumbersInLetters\bin\08_NumbersInLetters.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\08_NumbersInLetters\bin\08_NumbersInLetters.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\08_NumbersInLetters\bin\08_NumbersInLetters.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\08_NumbersInLetters\obj\Debug\08_NumbersInLetters.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\08_NumbersInLetters\obj\Debug\08_NumbersInLetters.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\08_NumbersInLetters\obj\Debug\08_NumbersInLetters.pdb

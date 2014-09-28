@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\11-FormatStringUsingPlaceholders\bin\11-FormatStringUsingPlaceholders.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\11-FormatStringUsingPlaceholders\bin\11-FormatStringUsingPlaceholders.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\11-FormatStringUsingPlaceholders\bin\11-FormatStringUsingPlaceholders.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\11-FormatStringUsingPlaceholders\obj\Debug\11-FormatStringUsingPlaceholders.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\11-FormatStringUsingPlaceholders\obj\Debug\11-FormatStringUsingPlaceholders.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\11-FormatStringUsingPlaceholders\obj\Debug\11-FormatStringUsingPlaceholders.pdb

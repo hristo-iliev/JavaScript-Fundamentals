@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <p>
+        <span style="text-decoration:underline">TASK 8:</span>
+        Write a JavaScript function that replaces in a HTML document given as string all<br />
+        the tags <a href="…">…</a> with corresponding tags [URL=…]…/URL]. Sample HTML fragment:
+    <p>
+        <b>Sample HTML fragment:</b><br />
+        <span id="example">&lt;p&gt;Please visit &lt;a href="http://academy.telerik. com"&gt;our site&lt;/a&gt; to choose a training course. Also visit &lt;a href="www.devbg.org"&gt;our forum&lt;/a&gt; to discuss the courses.&lt;/p&gt;</span>>
+    </p>
+    <p>
+        <b>Sample output:</b><br />
+        &lt;p&gt;Please visit [URL=http://academy.telerik. com]our site[/URL] to choose a training course. Also visit [URL=www.devbg.org]our forum[/URL] to discuss the courses.&lt;/p&gt;
+    </p>
+        
+    <br />
+    <br />
+
+    <span style="font-weight:bold">Enter HTML fragment: </span><br />
+    <textarea id="text" style="width:30em; height:10em"></textarea><br />
+    <span style="text-decoration:underline">If no text is inserted, the program will run with the EXAMPLE input!</span><br />
+    <input type="submit" onclick="main()" value="Go!" />
+    <p id="result" style="width:50em;"></p>
+    <script src="JavaScript.js"></script>
+</body>
+</html>

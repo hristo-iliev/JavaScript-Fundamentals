@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\01_OddOrEven\bin\01_OddOrEven.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\01_OddOrEven\bin\01_OddOrEven.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\01_OddOrEven\bin\01_OddOrEven.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\01_OddOrEven\obj\Debug\01_OddOrEven.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\01_OddOrEven\obj\Debug\01_OddOrEven.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\01_OddOrEven\obj\Debug\01_OddOrEven.pdb

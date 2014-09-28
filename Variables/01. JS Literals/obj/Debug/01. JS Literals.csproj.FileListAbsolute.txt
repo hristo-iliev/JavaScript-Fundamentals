@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\01. JS Literals\bin\_01.JS_Literals.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\01. JS Literals\bin\_01.JS_Literals.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\01. JS Literals\bin\_01.JS_Literals.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\01. JS Literals\obj\Debug\01. JS Literals.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\01. JS Literals\obj\Debug\_01.JS_Literals.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\01. JS Literals\obj\Debug\_01.JS_Literals.pdb

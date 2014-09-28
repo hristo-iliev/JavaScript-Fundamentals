@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        // TASK 4: Create null, undefined variables and try typeof on them.;
+
+        var a = undefined;
+        var b = null;
+
+        function GetType(variable) {
+            var result = variable + "  =>  " + typeof (variable);
+            var div = document.createElement("div");
+            div.innerHTML = result;
+            document.body.appendChild(div);
+        }
+
+        GetType(a);
+        GetType(b);
+    </script>
+</body>
+</html>

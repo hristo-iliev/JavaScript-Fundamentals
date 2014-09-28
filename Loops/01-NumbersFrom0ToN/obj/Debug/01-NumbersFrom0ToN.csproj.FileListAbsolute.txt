@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\01-NumbersFrom0ToN\bin\01-NumbersFrom0ToN.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\01-NumbersFrom0ToN\bin\01-NumbersFrom0ToN.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\01-NumbersFrom0ToN\bin\01-NumbersFrom0ToN.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\01-NumbersFrom0ToN\obj\Debug\01-NumbersFrom0ToN.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\01-NumbersFrom0ToN\obj\Debug\01-NumbersFrom0ToN.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\01-NumbersFrom0ToN\obj\Debug\01-NumbersFrom0ToN.pdb

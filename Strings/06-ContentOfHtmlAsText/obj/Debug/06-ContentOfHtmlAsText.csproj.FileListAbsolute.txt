@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\06-ContentOfHtmlAsText\bin\06-ContentOfHtmlAsText.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\06-ContentOfHtmlAsText\bin\06-ContentOfHtmlAsText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\06-ContentOfHtmlAsText\bin\06-ContentOfHtmlAsText.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\06-ContentOfHtmlAsText\obj\Debug\06-ContentOfHtmlAsText.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\06-ContentOfHtmlAsText\obj\Debug\06-ContentOfHtmlAsText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\06-ContentOfHtmlAsText\obj\Debug\06-ContentOfHtmlAsText.pdb

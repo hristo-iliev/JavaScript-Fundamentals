@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\03. TypeOf Variables\bin\_03.TypeOf_Variables.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\03. TypeOf Variables\bin\_03.TypeOf_Variables.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\03. TypeOf Variables\bin\_03.TypeOf_Variables.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\03. TypeOf Variables\obj\Debug\_03.TypeOf_Variables.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\03. TypeOf Variables\obj\Debug\_03.TypeOf_Variables.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Variables\03. TypeOf Variables\obj\Debug\03. TypeOf Variables.csprojResolveAssemblyReference.cache

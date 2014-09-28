@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\06-MostFrequentNumber\bin\06-MostFrequentNumber.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\06-MostFrequentNumber\bin\06-MostFrequentNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\06-MostFrequentNumber\bin\06-MostFrequentNumber.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\06-MostFrequentNumber\obj\Debug\06-MostFrequentNumber.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\06-MostFrequentNumber\obj\Debug\06-MostFrequentNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\06-MostFrequentNumber\obj\Debug\06-MostFrequentNumber.pdb

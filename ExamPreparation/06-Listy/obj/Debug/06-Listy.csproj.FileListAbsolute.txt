@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\06-Listy\bin\06-Listy.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\06-Listy\bin\06-Listy.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\06-Listy\bin\06-Listy.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\06-Listy\obj\Debug\06-Listy.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\06-Listy\obj\Debug\06-Listy.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\06-Listy\obj\Debug\06-Listy.pdb

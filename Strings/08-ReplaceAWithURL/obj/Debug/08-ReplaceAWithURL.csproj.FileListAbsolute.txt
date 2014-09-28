@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\08-ReplaceAWithURL\bin\08-ReplaceAWithURL.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\08-ReplaceAWithURL\bin\08-ReplaceAWithURL.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\08-ReplaceAWithURL\bin\08-ReplaceAWithURL.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\08-ReplaceAWithURL\obj\Debug\08-ReplaceAWithURL.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\08-ReplaceAWithURL\obj\Debug\08-ReplaceAWithURL.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\08-ReplaceAWithURL\obj\Debug\08-ReplaceAWithURL.pdb

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\04_ThirdDigit\bin\04_ThirdDigit.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\04_ThirdDigit\bin\04_ThirdDigit.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\04_ThirdDigit\bin\04_ThirdDigit.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\04_ThirdDigit\obj\Debug\04_ThirdDigit.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\04_ThirdDigit\obj\Debug\04_ThirdDigit.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\04_ThirdDigit\obj\Debug\04_ThirdDigit.pdb

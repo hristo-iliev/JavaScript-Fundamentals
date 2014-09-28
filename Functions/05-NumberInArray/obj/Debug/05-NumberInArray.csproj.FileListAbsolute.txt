@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\05-NumberInArray\bin\05-NumberInArray.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\05-NumberInArray\bin\05-NumberInArray.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\05-NumberInArray\bin\05-NumberInArray.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\05-NumberInArray\obj\Debug\05-NumberInArray.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\05-NumberInArray\obj\Debug\05-NumberInArray.pdb

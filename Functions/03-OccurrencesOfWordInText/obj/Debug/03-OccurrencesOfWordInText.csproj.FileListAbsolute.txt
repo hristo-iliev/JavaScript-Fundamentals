@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\03-OccurrencesOfWordInText\bin\03-OccurrencesOfWordInText.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\03-OccurrencesOfWordInText\bin\03-OccurrencesOfWordInText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\03-OccurrencesOfWordInText\bin\03-OccurrencesOfWordInText.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\03-OccurrencesOfWordInText\obj\Debug\03-OccurrencesOfWordInText.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\03-OccurrencesOfWordInText\obj\Debug\03-OccurrencesOfWordInText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\03-OccurrencesOfWordInText\obj\Debug\03-OccurrencesOfWordInText.pdb

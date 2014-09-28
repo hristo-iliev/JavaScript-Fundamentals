@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\01_ExchangingValues\bin\01_ExchangingValues.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\01_ExchangingValues\bin\01_ExchangingValues.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\01_ExchangingValues\bin\01_ExchangingValues.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\01_ExchangingValues\obj\Debug\01_ExchangingValues.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\01_ExchangingValues\obj\Debug\01_ExchangingValues.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\01_ExchangingValues\obj\Debug\01_ExchangingValues.pdb

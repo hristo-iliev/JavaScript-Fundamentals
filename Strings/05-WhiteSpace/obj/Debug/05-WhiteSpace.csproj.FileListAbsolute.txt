@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\05-WhiteSpace\bin\05-WhiteSpace.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\05-WhiteSpace\bin\05-WhiteSpace.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\05-WhiteSpace\bin\05-WhiteSpace.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\05-WhiteSpace\obj\Debug\05-WhiteSpace.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\05-WhiteSpace\obj\Debug\05-WhiteSpace.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\05-WhiteSpace\obj\Debug\05-WhiteSpace.pdb

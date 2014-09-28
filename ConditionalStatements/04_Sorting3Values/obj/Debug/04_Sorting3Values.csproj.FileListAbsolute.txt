@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\04_Sorting3Values\bin\04_Sorting3Values.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\04_Sorting3Values\bin\04_Sorting3Values.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\04_Sorting3Values\bin\04_Sorting3Values.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\04_Sorting3Values\obj\Debug\04_Sorting3Values.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\04_Sorting3Values\obj\Debug\04_Sorting3Values.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ConditionalStatements\04_Sorting3Values\obj\Debug\04_Sorting3Values.pdb

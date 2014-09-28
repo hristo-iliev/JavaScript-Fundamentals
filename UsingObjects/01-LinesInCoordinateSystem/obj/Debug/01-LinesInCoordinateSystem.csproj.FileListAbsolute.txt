@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\01-LinesInCoordinateSystem\bin\01-LinesInCoordinateSystem.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\01-LinesInCoordinateSystem\bin\01-LinesInCoordinateSystem.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\01-LinesInCoordinateSystem\bin\01-LinesInCoordinateSystem.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\01-LinesInCoordinateSystem\obj\Debug\01-LinesInCoordinateSystem.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\01-LinesInCoordinateSystem\obj\Debug\01-LinesInCoordinateSystem.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\01-LinesInCoordinateSystem\obj\Debug\01-LinesInCoordinateSystem.csprojResolveAssemblyReference.cache

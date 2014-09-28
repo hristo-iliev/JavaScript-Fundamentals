@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\12-CreateHtmlUlUsingTemplate\bin\12-CreateHtmlUlUsingTemplate.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\12-CreateHtmlUlUsingTemplate\bin\12-CreateHtmlUlUsingTemplate.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\12-CreateHtmlUlUsingTemplate\bin\12-CreateHtmlUlUsingTemplate.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\12-CreateHtmlUlUsingTemplate\obj\Debug\12-CreateHtmlUlUsingTemplate.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\12-CreateHtmlUlUsingTemplate\obj\Debug\12-CreateHtmlUlUsingTemplate.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\12-CreateHtmlUlUsingTemplate\obj\Debug\12-CreateHtmlUlUsingTemplate.pdb

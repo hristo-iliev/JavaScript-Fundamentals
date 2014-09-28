@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\10-Palindromes\bin\10-Palindromes.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\10-Palindromes\bin\10-Palindromes.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\10-Palindromes\bin\10-Palindromes.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\10-Palindromes\obj\Debug\10-Palindromes.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\10-Palindromes\obj\Debug\10-Palindromes.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\10-Palindromes\obj\Debug\10-Palindromes.pdb

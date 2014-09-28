@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\09-EmailsFromText\bin\09-EmailsFromText.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\09-EmailsFromText\bin\09-EmailsFromText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\09-EmailsFromText\bin\09-EmailsFromText.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\09-EmailsFromText\obj\Debug\09-EmailsFromText.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\09-EmailsFromText\obj\Debug\09-EmailsFromText.pdb

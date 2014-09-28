@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\07-SearchForBiggerThanNeighborsElement\bin\07-SearchForBiggerThanNeighborsElement.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\07-SearchForBiggerThanNeighborsElement\bin\07-SearchForBiggerThanNeighborsElement.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\07-SearchForBiggerThanNeighborsElement\bin\07-SearchForBiggerThanNeighborsElement.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\07-SearchForBiggerThanNeighborsElement\obj\Debug\07-SearchForBiggerThanNeighborsElement.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\07-SearchForBiggerThanNeighborsElement\obj\Debug\07-SearchForBiggerThanNeighborsElement.pdb

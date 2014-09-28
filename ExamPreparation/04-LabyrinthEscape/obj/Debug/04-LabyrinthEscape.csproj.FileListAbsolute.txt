@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\04-LabyrinthEscape\bin\04-LabyrinthEscape.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\04-LabyrinthEscape\bin\04-LabyrinthEscape.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\04-LabyrinthEscape\bin\04-LabyrinthEscape.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\04-LabyrinthEscape\obj\Debug\04-LabyrinthEscape.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\04-LabyrinthEscape\obj\Debug\04-LabyrinthEscape.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\04-LabyrinthEscape\obj\Debug\04-LabyrinthEscape.pdb

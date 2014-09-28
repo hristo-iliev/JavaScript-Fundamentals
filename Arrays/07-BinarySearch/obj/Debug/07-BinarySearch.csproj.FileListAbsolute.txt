@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\07-BinarySearch\bin\07-BinarySearch.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\07-BinarySearch\bin\07-BinarySearch.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\07-BinarySearch\bin\07-BinarySearch.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\07-BinarySearch\obj\Debug\07-BinarySearch.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\07-BinarySearch\obj\Debug\07-BinarySearch.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Arrays\07-BinarySearch\obj\Debug\07-BinarySearch.csprojResolveAssemblyReference.cache

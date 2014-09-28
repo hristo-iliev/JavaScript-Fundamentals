@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\03-MaxAndMinNumber\bin\03-MaxAndMinNumber.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\03-MaxAndMinNumber\bin\03-MaxAndMinNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\03-MaxAndMinNumber\bin\03-MaxAndMinNumber.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\03-MaxAndMinNumber\obj\Debug\03-MaxAndMinNumber.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Loops\03-MaxAndMinNumber\obj\Debug\03-MaxAndMinNumber.pdb

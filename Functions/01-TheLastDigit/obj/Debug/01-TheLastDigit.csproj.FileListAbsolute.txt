@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\01-TheLastDigit\bin\01-TheLastDigit.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\01-TheLastDigit\bin\01-TheLastDigit.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\01-TheLastDigit\bin\01-TheLastDigit.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\01-TheLastDigit\obj\Debug\01-TheLastDigit.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\01-TheLastDigit\obj\Debug\01-TheLastDigit.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Functions\01-TheLastDigit\obj\Debug\01-TheLastDigit.pdb

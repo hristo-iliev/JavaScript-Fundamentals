@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\04-IfObjectHasProperty\bin\04-IfObjectHasProperty.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\04-IfObjectHasProperty\bin\04-IfObjectHasProperty.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\04-IfObjectHasProperty\bin\04-IfObjectHasProperty.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\04-IfObjectHasProperty\obj\Debug\04-IfObjectHasProperty.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\04-IfObjectHasProperty\obj\Debug\04-IfObjectHasProperty.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\04-IfObjectHasProperty\obj\Debug\04-IfObjectHasProperty.pdb

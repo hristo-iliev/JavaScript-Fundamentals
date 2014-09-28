@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\03_RectanglesArea\bin\03_RectanglesArea.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\03_RectanglesArea\bin\03_RectanglesArea.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\03_RectanglesArea\bin\03_RectanglesArea.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\03_RectanglesArea\obj\Debug\03_RectanglesArea.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\03_RectanglesArea\obj\Debug\03_RectanglesArea.pdb

@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\02_JoroTheNaughty\bin\02_JoroTheNaughty.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\02_JoroTheNaughty\bin\02_JoroTheNaughty.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\02_JoroTheNaughty\bin\02_JoroTheNaughty.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\02_JoroTheNaughty\obj\Debug\02_JoroTheNaughty.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\02_JoroTheNaughty\obj\Debug\02_JoroTheNaughty.dll
+D:\ПРОГРАМИСТ\JavaScrypt\ExamPreparation\02_JoroTheNaughty\obj\Debug\02_JoroTheNaughty.pdb

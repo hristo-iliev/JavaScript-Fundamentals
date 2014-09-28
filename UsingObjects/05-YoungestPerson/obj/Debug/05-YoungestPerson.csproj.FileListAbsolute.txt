@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\05-YoungestPerson\bin\05-YoungestPerson.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\05-YoungestPerson\bin\05-YoungestPerson.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\05-YoungestPerson\bin\05-YoungestPerson.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\05-YoungestPerson\obj\Debug\05-YoungestPerson.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\05-YoungestPerson\obj\Debug\05-YoungestPerson.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\05-YoungestPerson\obj\Debug\05-YoungestPerson.pdb

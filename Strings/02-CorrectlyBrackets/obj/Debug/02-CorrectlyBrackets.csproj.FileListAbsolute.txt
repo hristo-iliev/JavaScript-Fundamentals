@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\02-CorrectlyBrackets\bin\02-CorrectlyBrackets.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\02-CorrectlyBrackets\bin\02-CorrectlyBrackets.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\02-CorrectlyBrackets\bin\02-CorrectlyBrackets.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\02-CorrectlyBrackets\obj\Debug\02-CorrectlyBrackets.dll
+D:\ПРОГРАМИСТ\JavaScrypt\Strings\02-CorrectlyBrackets\obj\Debug\02-CorrectlyBrackets.pdb

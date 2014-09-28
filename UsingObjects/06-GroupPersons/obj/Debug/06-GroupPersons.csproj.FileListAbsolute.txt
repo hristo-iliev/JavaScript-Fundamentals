@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\06-GroupPersons\bin\06-GroupPersons.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\06-GroupPersons\bin\06-GroupPersons.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\06-GroupPersons\bin\06-GroupPersons.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\06-GroupPersons\obj\Debug\06-GroupPersons.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\06-GroupPersons\obj\Debug\06-GroupPersons.dll
+D:\ПРОГРАМИСТ\JavaScrypt\UsingObjects\06-GroupPersons\obj\Debug\06-GroupPersons.pdb

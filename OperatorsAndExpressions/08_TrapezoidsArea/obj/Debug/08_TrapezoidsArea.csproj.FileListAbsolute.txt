@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\08_TrapezoidsArea\bin\08_TrapezoidsArea.dll.config
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\08_TrapezoidsArea\bin\08_TrapezoidsArea.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\08_TrapezoidsArea\bin\08_TrapezoidsArea.pdb
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\08_TrapezoidsArea\obj\Debug\08_TrapezoidsArea.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\08_TrapezoidsArea\obj\Debug\08_TrapezoidsArea.dll
+D:\ПРОГРАМИСТ\JavaScrypt\OperatorsAndExpressions\08_TrapezoidsArea\obj\Debug\08_TrapezoidsArea.pdb
